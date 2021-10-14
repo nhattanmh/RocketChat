@@ -7,4 +7,5 @@
 **Rocket.Chat** là một lựa chọn tốt do nó tương tự như Slack và dễ dàng triển khai. Nó cũng có tất cả các tính năng cần thiết để tạo điều kiện giao tiếp thích hợp, cùng với tùy chọn bắt đầu miễn phí, chọn dịch vụ do nhóm Rocket.Chat lưu trữ hoặc triển khai trên máy chủ của riêng.
 
 ### Đặc điểm của Rocket.Chat
-
+- Chia sẻ tệp dễ dàng (hỗ trợ kéo và thả)
+- Hỗ trợ chia sẻ tệp âm thanh
