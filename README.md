@@ -9,3 +9,14 @@
 ### Đặc điểm của Rocket.Chat
 - Chia sẻ tệp dễ dàng (hỗ trợ kéo và thả)
 - Hỗ trợ chia sẻ tệp âm thanh
+- Video call với sự tích hợp Jitsi
+- Các kênh riêng biệt (tùy chọn công cộng và riêng tư)
+- Hỗ trợ cho mã hóa end-to-end
+- Có thể tùy chỉnh chủ đề dịch vụ
+- Lịch sử tin nhắn không giới hạn, tùy thuộc vào lưu trữ máy chủ để cấu hình tự quản lý
+- Hỗ trợ RRS(có thể gửi tệp hình ảnh ở định dạng PNG)
+- Hỗ trợ tích hợp ứng dụng bên thứ 3
+- Cung cấp hỗ trợ thông báo đẩy
+- Hỗ trợ tích hợp live chat
+- Hỗ trợ đa nền tảng (Windows, macOS, Android, iOS và Linux)
+
