@@ -106,9 +106,13 @@ Hướng dẫn cài đặt này được triển khai trên môi trường sau:
 - Thiết lập công cụ lưu trữ và sao chép cho MongoDB, đồng thời khởi động MongoDB và Rocket.Chat bằng cách chạy lần lượt các lệnh dưới đây:
 
 > sudo sed -i "s/^#  engine:/  engine: mmapv1/"  /etc/mongod.conf
+
 > sudo sed -i "s/^#replication:/replication:\n  replSetName: rs01/" /etc/mongod.conf
+
 > sudo systemctl enable mongod && sudo systemctl start mongod
+
 > mongo --eval "printjson(rs.initiate())"
+
 > sudo systemctl enable rocketchat && sudo systemctl start rocketchat
 
 - Truy cập vào Rocket.Chat của bạn thông qua tên miền đã thiết lập
