@@ -1,4 +1,4 @@
-Rocket.Chat hỗ trợ một số cách khác nhau để xác thực, ngoài xác thực tên người dùng / mật khẩu cơ bản. Hầu hết các nhà cung cấp dịch vụ xác thực đều yêu cầu một clientID và một mật khẩu.
+###Rocket.Chat hỗ trợ một số cách khác nhau để xác thực, ngoài xác thực tên người dùng / mật khẩu cơ bản. Hầu hết các nhà cung cấp dịch vụ xác thực đều yêu cầu một clientID và một mật khẩu.
 Để thiết lập nhà cung cấp dịch vụ:
 1. Chọn phần quản trị
 
