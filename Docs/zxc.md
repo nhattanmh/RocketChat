@@ -49,8 +49,7 @@ Rocket.Chat hỗ trợ một số cách khác nhau để xác thực, ngoài xá
 - Đặt tên và nhập URIs
 
 ![image](https://user-images.githubusercontent.com/59860781/138022199-40850eee-c032-4c1a-aa28-4125df670640.png)
-
--    Lưu ý: cần thêm **?close** sau URIs để có thể truy vấn về lại google
+    -     Lưu ý: cần thêm **?close** sau URIs để có thể truy vấn về lại google
 
 - Sau khi tạo xong, sẽ xuất hiện 2 key
 
