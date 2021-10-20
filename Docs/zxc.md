@@ -9,4 +9,4 @@ Rocket.Chat hỗ trợ một số cách khác nhau để xác thực, ngoài xá
 ![image](https://user-images.githubusercontent.com/59860781/138020297-cde83115-8880-43d7-b68e-e87759235b72.png)
 
 3. Thiết lập đăng nhập bằng gmail
-- Đăng nhập vào [google console] (https://console.cloud.google.com/apis/dashboard)
+- Đăng nhập vào [google console](https://console.cloud.google.com/apis/dashboard)
